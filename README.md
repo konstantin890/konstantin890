@@ -27,7 +27,7 @@ received a bounty and a letter of referral from the **Director of Android Securi
 [CVE Info](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0313).
 
 ### **As a Game Developer (TerraStudios)**
-- Creator of **Steaven The Cat**, a game made by a part of **TerraStudios** in one week as a contribution to the **2019 Community Game Jam**. 
+- Creator of **Steven The Cat**, a game made by a part of **TerraStudios** in one week as a contribution to the **2019 Community Game Jam**. 
 [itch.io](https://konstantin890.itch.io/steven-the-cat), [CGJ 2019 Submission](https://itch.io/jam/cgj/rate/477014)
 - Currently developing a factorio-like factory building game.
 - Paused prototype of a large-scale multiplayer survival open-world game.
@@ -47,4 +47,4 @@ received a bounty and a letter of referral from the **Director of Android Securi
 - Email - milev109@gmail.com
 - [Twitter](https://twitter.com/konstantin890)
 
-<p align='right'>v1.1</p>
+<p align='right'>v1.2</p>
