@@ -40,11 +40,11 @@ received a bounty and a letter of referral from the **Director of Android Securi
 - **Languages:** Bulgarian (native), English, French
 
 ## Contact me
-**For inquiries please stick to email.**
+**For inquiries email is preferred.**
 
 - Personal Discord - Kosio#9955
 - [TerraStudios Discord Server (Public)](https://discord.com/invite/F5rnvDu)
 - Email - milev109@gmail.com
 - [Twitter](https://twitter.com/konstantin890)
 
-<p align='right'>v1</p>
+<p align='right'>v1.1</p>
