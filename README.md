@@ -22,7 +22,7 @@ We're currently developing a prototype of an open-world, topdown view, voxel-typ
 ## Projects & Activity
 ### **As an Android Security Researcher**
 - Founder of a **Critical DoS Vulnerability in Android** (AOSP) CVE-2021-0313 and acknowledged in the **January 2021 Android Security Bulletin**. 
-[Acknowledgment](https://source.android.com/security/overview/acknowledgements#january-2021), [Bulletin](https://source.android.com/security/bulletin/2021-01-01), 
+[Acknowledgement](https://source.android.com/security/overview/acknowledgements#january-2021), [Bulletin](https://source.android.com/security/bulletin/2021-01-01), 
 [CVE Info](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0313).
 
 ### As a Game Developer
@@ -49,4 +49,4 @@ The project is open-source and currently under active development.
 - Email - milev109@gmail.com
 - [Twitter](https://twitter.com/konstantin890)
 
-<p align='right'>v2</p>
+<p align='right'>v2.1</p>
