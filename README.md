@@ -1,5 +1,5 @@
 ## Hellooo! Welcome to my profile! 👋
-My name is Konstantin, but for short, you can call me Kosio. I'm a 17 years old:
+My name is Konstantin, but for short, you can call me Kosio. I'm an 18 years old:
 - Hobbyist Unity Game Developer (3 years of experience)
 - Founder of the Game Development Studio "TerraStudios" ([Discord Server](https://discord.com/invite/F5rnvDu))
 - C# Programmer (3 years of experience)
@@ -49,4 +49,4 @@ The project is open-source and currently under active development.
 - Email - milev109@gmail.com
 - [Twitter](https://twitter.com/konstantin890)
 
-<p align='right'>v2.1</p>
+<p align='right'>v2.2</p>
