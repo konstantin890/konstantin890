@@ -46,7 +46,7 @@ The project is open-source and currently under active development.
 
 - Personal Discord - Kosio#9955
 - [TerraStudios Discord Server (Public)](https://discord.com/invite/F5rnvDu)
-- Email - milev109@gmail.com
+- Email - konstantin@terrastudios.io
 - [Twitter](https://twitter.com/konstantin890)
 
 <p align='right'>v2.3</p>
