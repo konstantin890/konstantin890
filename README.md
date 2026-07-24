@@ -47,7 +47,7 @@ The project is open-source and currently under active development.
 
 - Personal Discord - kmilev
 - TerraStudios Discord Server (Public) - [Invite](https://discord.com/invite/F5rnvDu)
-- Email - konstantin@terrastudios.io
+- Email - milev109@gmail.com
 - LinkedIn - https://www.linkedin.com/in/konstantin-milev/
 
 <p align='right'>v3.0</p>
