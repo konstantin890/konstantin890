@@ -42,11 +42,8 @@ The project is open-source and currently under active development.
 - **Source Control:** Git, Perforce, Plastic SCM
 - **Languages:** Bulgarian (Native), English (Fluent), French (Intermediate)
 
-## Contact me
-**For inquiries email is preferred.**
+## Inqueries
 
-- Personal Discord - kmilev
-- TerraStudios Discord Server (Public) - [Invite](https://discord.com/invite/F5rnvDu)
 - Email - milev109@gmail.com
 - LinkedIn - https://www.linkedin.com/in/konstantin-milev/
 
